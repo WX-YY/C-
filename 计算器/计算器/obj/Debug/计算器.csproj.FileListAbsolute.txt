@@ -1,0 +1,10 @@
+F:\VS2017WorkSpace\计算器\计算器\bin\Debug\计算器.exe.config
+F:\VS2017WorkSpace\计算器\计算器\bin\Debug\计算器.exe
+F:\VS2017WorkSpace\计算器\计算器\bin\Debug\计算器.pdb
+F:\VS2017WorkSpace\计算器\计算器\obj\Debug\计算器.csprojAssemblyReference.cache
+F:\VS2017WorkSpace\计算器\计算器\obj\Debug\计算器.Form1.resources
+F:\VS2017WorkSpace\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+F:\VS2017WorkSpace\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+F:\VS2017WorkSpace\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+F:\VS2017WorkSpace\计算器\计算器\obj\Debug\计算器.exe
+F:\VS2017WorkSpace\计算器\计算器\obj\Debug\计算器.pdb
