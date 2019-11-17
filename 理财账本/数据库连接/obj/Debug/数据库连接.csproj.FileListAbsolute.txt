@@ -1,0 +1,6 @@
+F:\VS2017WorkSpace\理财帮手\数据库连接\bin\Debug\数据库连接.dll
+F:\VS2017WorkSpace\理财帮手\数据库连接\bin\Debug\数据库连接.pdb
+F:\VS2017WorkSpace\理财帮手\数据库连接\obj\Debug\数据库连接.csprojAssemblyReference.cache
+F:\VS2017WorkSpace\理财帮手\数据库连接\obj\Debug\数据库连接.csproj.CoreCompileInputs.cache
+F:\VS2017WorkSpace\理财帮手\数据库连接\obj\Debug\数据库连接.dll
+F:\VS2017WorkSpace\理财帮手\数据库连接\obj\Debug\数据库连接.pdb
